@@ -14,4 +14,3 @@
      Futil.processDir(dirName, resultFileName);
    }
  }
- 

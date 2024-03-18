@@ -1,0 +1,18 @@
+NUL 	SOH 	STX 	ETX 	EOT 	ENQ 	ACK 	BEL 	BS 	HT 	LF 	VT 	FF 	CR 	SO 	SI
+1x 	DLE 	DC1 	DC2 	DC3 	DC4 	NAK 	SYN 	ETB 	CAN 	EM 	SUB 	ESC 	FS 	GS 	RS 	US
+2x 	 SP  	! 	" 	# 	$ 	% 	& 	' 	( 	) 	* 	+ 	, 	- 	. 	/
+3x 	0 	1 	2 	3 	4 	5 	6 	7 	8 	9 	: 	; 	< 	= 	> 	?
+4x 	@ 	A 	B 	C 	D 	E 	F 	G 	H 	I 	J 	K 	L 	M 	N 	O
+5x 	P 	Q 	R 	S 	T 	U 	V 	W 	X 	Y 	Z 	[ 	\ 	] 	^ 	_
+6x 	` 	a 	b 	c 	d 	e 	f 	g 	h 	i 	j 	k 	l 	m 	n 	o
+7x 	p 	q 	r 	s 	t 	u 	v 	w 	x 	y 	z 	{ 	| 	} 	~ 	DEL
+8x 	€ 		‚ 		„ 	… 	† 	‡ 		‰ 	Š 	‹ 	Ś 	Ť 	Ž 	Ź
+9x 		‘ 	’ 	“ 	” 	• 	– 	— 		™ 	š 	› 	ś 	ť 	ž 	ź
+Ax 	NBSP 	ˇ 	˘ 	Ł 	¤ 	Ą 	¦ 	§ 	¨ 	© 	Ş 	« 	¬ 	SHY 	® 	Ż
+Bx 	° 	± 	˛ 	ł 	´ 	µ 	¶ 	· 	¸ 	ą 	ş 	» 	Ľ 	˝ 	ľ 	ż
+Cx 	Ŕ 	Á 	Â 	Ă 	Ä 	Ĺ 	Ć 	Ç 	Č 	É 	Ę 	Ë 	Ě 	Í 	Î 	Ď
+Dx 	Đ 	Ń 	Ň 	Ó 	Ô 	Ő 	Ö 	× 	Ř 	Ů 	Ú 	Ű 	Ü 	Ý 	Ţ 	ß
+Ex 	ŕ 	á 	â 	ă 	ä 	ĺ 	ć 	ç 	č 	é 	ę 	ë 	ě 	í 	î 	ď
+Fx 	đ 	ń 	ň 	ó 	ô 	ő 	ö 	÷ 	ř 	ů 	ú 	ű 	ü 	ý 	ţ 	˙
+
+ąĄćĆęĘłŁ
