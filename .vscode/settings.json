@@ -11,13 +11,41 @@
   ],
   "editor.tokenColorCustomizations": {
     "[Darcula IntelliJ]": {
-      "strings": "#6aab73",
-      "comments": "#6a996c",
+      "strings": "#6AAB73",
+      "comments": "#808080",
+      "numbers": "#6897BB",
+      "variables": "#A9B7C6",
+      "functions": "#A9B7C6",
+      "types": "#A9B7C6",
       "textMateRules": [
         {
           "scope": "keyword",
           "settings": {
-            "foreground": "#cf8e6d"
+            "foreground": "#CF8E6D"
+          }
+        },
+        {
+          "scope": "storage.modifier.java",
+          "settings": {
+            "foreground": "#CF8E6D"
+          }
+        },
+        {
+          "scope": "storage.type.java",
+          "settings": {
+            "foreground": "#A9B7C6"
+          }
+        },
+        {
+          "scope": "variable.parameter.java",
+          "settings": {
+            "foreground": "#A9B7C6"
+          }
+        },
+        {
+          "scope": "meta.method.identifier.java",
+          "settings": {
+            "foreground": "#d3c96e"
           }
         }
       ]
