@@ -1,23 +1,27 @@
 {
-    "java.project.sourcePaths": [
-        "src"
-    ],
-    "java.project.outputPath": "bin",
-    "java.project.referencedLibraries": [
-        "lib/**/*.jar"
-    ],
-    "editor.tokenColorCustomizations": {
-        "[Darcula IntelliJ]": {
-            "strings": "#6aab73",
-            "comments": "#6a996c",
-            "textMateRules": [
-                {
-                    "scope": "keyword",
-                    "settings": {
-                        "foreground": "#cf8e6d"
-                    }
-                }
-            ]
+  "java.project.sourcePaths": [
+    "src/c01/zad1",
+    "src/c02/zad1",
+    "src/c03/zad1"
+  ],
+  "java.project.outputPath": "bin",
+  "java.project.referencedLibraries": [
+    "lib/gson-2.10.1.jar",
+    "lib/snakeyaml-1.26.jar"
+  ],
+  "editor.tokenColorCustomizations": {
+    "[Darcula IntelliJ]": {
+      "strings": "#6aab73",
+      "comments": "#6a996c",
+      "textMateRules": [
+        {
+          "scope": "keyword",
+          "settings": {
+            "foreground": "#cf8e6d"
+          }
         }
+      ]
     }
+  },
+  "java.dependency.packagePresentation": "flat"
 }

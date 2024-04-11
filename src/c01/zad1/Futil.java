@@ -1,4 +1,8 @@
-package zad1;
+/**
+ *
+ * @author Gessek Jan S28970
+ *
+ */
 
 import java.io.*;
 import java.nio.file.*;
