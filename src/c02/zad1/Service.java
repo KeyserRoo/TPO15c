@@ -20,11 +20,11 @@ public class Service {
 
   String gettingRateFor;
 
-  String apiKeyWeather = "436756183717e5243017d801190091bc";
+  String apiKeyWeather = "-";
 
   // TAK, ukradlem klucz koledze bo nie chcialo
   // mi sie tworzyc konta, a o co chodzi?
-  String apiKeyOpenEr = "bfd9d88802fe819b31d71ee5";
+  String apiKeyOpenEr = "-";
 
   public Service(String cou) {
     country = cou;
